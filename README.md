@@ -4,7 +4,7 @@ Tippy is a tip calculator application for iOS.
 
 Submitted by: Jenny Lee
 
-Time spent: 1-2 hours spent in total
+Time spent: ~1 hour spent in total
 
 ## User Stories
 
